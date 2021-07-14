@@ -1,0 +1,15 @@
+Build a Recipe App With React | React Tutorial For Beginners
+https://youtu.be/U9T6YkEDkMo
+
+---
+導入react方法，
+1.將檔案[recipe21-0714資料夾]放置於src資料夾內
+2.至src資料夾>>index.js檔案中插入以下程式碼
+import Recipe01 from './recipe21-0714/Recipe01';
+
+<Recipe01 />
+
+---
+>檔案位置> 
+my-react-app(自訂名稱) >> src >> recipe21-0714資料夾
+
